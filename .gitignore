@@ -1,0 +1,8 @@
+# Platform identity — never committed.
+.env.inflow
+.env.inflow.*
+!.env.inflow.example
+
+# Build output
+/neo4j-plugin
+/dist/
